@@ -1,0 +1,7 @@
+{
+  "name": "placeproject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
